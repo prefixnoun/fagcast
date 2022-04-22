@@ -1,0 +1,4 @@
+/* Font size */
+greedy-nav a, .page__content p, .page__content li, .page__content dl {
+    font-size: 13pt;
+}
