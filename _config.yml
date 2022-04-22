@@ -24,6 +24,9 @@ github_username: prefixnoun
 minimal_mistakes_skin: default
 search: true
 
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -50,11 +53,6 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 author:
