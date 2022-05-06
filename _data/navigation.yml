@@ -1,37 +1,54 @@
+---
 main:
-  - title: "Timeline Earth"
+  -
+    title: "Timeline Earth"
     url: /tle/
-  - title: "FAGcast"
-   url: /fagcast/
-  - title: "Lore"
+  -
+    title: FAGcast
+    url: /fagcast/
+  -
+    title: Lore
     url: /lore/
-  - title: "Community"
+  -
+    title: Community
     url: /community/
-  - title: "Support"
+  -
+    title: Support
     url: /support/
-  -  title: "About"
+  -
+    title: About
     url: /about/
-
 sidebar:
-  - title: Support the show
+  -
     children:
-      - title: Patreon
-        url: https://www.patreon.com/timelineearth
-  - title: Website
+      -
+        title: Patreon
+        url: "https://www.patreon.com/timelineearth"
+    title: "Support the show"
+  -
     children:
-      - title: Official site
-        url: https://timelineearth.org
-      - title: Merchandise
-      - url: https://timelineearth.org/shop/
-  - title: Social
+      -
+        title: "Official site"
+        url: "https://timelineearth.org"
+      -
+        title: Merchandise
+        url: "https://timelineearth.org/shop/"
+    title: Website
+  -
     children:
-      - title: "@timelineearth"
-        url:
-      - title: "@TLEbirdarchist"
-        url:
-      - title: "@TLE_Car"
-        url:
-      - title: "@PunishedBTWA"
-        url:
-      - title: "@TLEPaz"
-        url:
+      -
+        title: "@timelineearth"
+        url: "https://twitter.com/timelineearth"
+      -
+        title: "@TLEbirdarchist"
+        url: "https://twitter.com/tlebirdarchist"
+      -
+        title: "@TLE_Car"
+        url: "https://twitter.com/tle_car"
+      -
+        title: "@PunishedBTWA"
+        url: "https://twitter.com/punishedbtwa"
+      -
+        title: "@TLEPaz"
+        url: "https://twitter.com/tlepaz"
+    title: Social
