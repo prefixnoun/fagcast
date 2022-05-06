@@ -1,6 +1,8 @@
 main:
-  - title: "Episodes"
-    url: /episodes/
+ - title: "Timeline Earth"
+    url: /tle/
+ - title: "FAGcast"
+   url: /fagcast/
   - title: "Lore"
     url: /lore/
   - title: "Community"
@@ -9,3 +11,27 @@ main:
     url: /support/
   - title: "About"
     url: /about/
+
+sidebar:
+  - title: Support the show
+    children:
+      - title: Patreon
+        url: https://www.patreon.com/timelineearth
+  - title: Website
+    children:
+      - title: Official site
+        url: https://timelineearth.org
+      - title: Merchandise
+      - url: https://timelineearth.org/shop/
+  - title: Social
+    children:
+      - title: "@timelineearth"
+        url:
+      - title: "@TLEbirdarchist"
+        url:
+      - title: "@TLE_Car"
+        url:
+      - title: "@PunishedBTWA"
+        url:
+      - title: "@TLEPaz"
+        url:
