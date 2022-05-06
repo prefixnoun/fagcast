@@ -1,4 +1,34 @@
-/* Font size */
-greedy-nav a, .page__content p, .page__content li, .page__content dl {
-    font-size: 13pt;
+/* Fonts */
+.masthead__menu-item a, .page__content p, .page__content li, .page__content dl {
+	font-size: 13pt;
 }
+.toc__menu li a {
+	font-size: 9pt;
+	font-weight: normal;
+}
+
+/* Link style */
+masthead__menu-item a, .toc__menu li a, a {
+	color: #2f7d95;
+	text-decoration: none;
+}
+
+/* Hide Elements */
+.toc .nav__title { 
+	display: none
+}
+
+a:link { 
+	color: ##0645ad;
+	text-decoration: underline;
+}
+a:visited { 
+	color: #8822aa;
+}
+a:hover, a:focus {
+	color: #dd2222;
+}
+a:active {
+	color: #ccc;
+}
+
